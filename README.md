@@ -2,11 +2,19 @@
 
 > A Vue.js project
 
+[Vue.js 2 & Firebase - Building Real Time Single Page Web Applications](https://www.youtube.com/watch?v=we4zuQIXmnw)
+
 ## Build Setup
 
 ``` bash
+# create vue project
+vue init webpack vuejsfirebase
+
 # install dependencies
 npm install
+
+# install firebase, vuefire
+npm install firebase vuefire --save
 
 # serve with hot reload at localhost:8080
 npm run dev
