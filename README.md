@@ -30,6 +30,8 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ## Others
 
+### toastr
 ```bash
-npm install toaster --save
+npm install toastr jquery --save
 ```
+_You need to install jQuery to use toastr_
